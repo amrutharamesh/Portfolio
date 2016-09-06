@@ -11,3 +11,6 @@ The project and its files are present inside the "portfolio" folder in this repo
 2. Go to the "portfolio" folder > "index.html" file
 3. Right click this file > "Open with Google Chrome"
 4. The website is displayed for view
+
+##Testing
+1. Open Chrome Dev tools "Emulation mode" and test the site for the different criteria
