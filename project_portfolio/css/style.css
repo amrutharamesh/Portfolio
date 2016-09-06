@@ -1,0 +1,43 @@
+/* Element specific styles */
+h1, h2, h4 {
+  font-family: 'Lato', sans-serif;
+}
+
+h1, h4 {
+  color: #2d3c49;
+  margin-bottom: 8px;
+}
+
+h1 {
+  font-weight: 100;
+}
+
+h2 {
+  font-weight: 200;
+  color: #7d97ad;
+}
+
+hr {
+  border-top: 3px solid #7d97ad;
+}
+
+/* Class selector styles */
+.wrapper {
+  margin-top: 20px;
+}
+
+.logo {
+  width: 75px;
+  height: 75px;
+  top: 16px;
+  position: relative;
+}
+
+.project-imgs {
+  margin: 0 auto;
+}
+
+.project-link {
+  font-style: oblique;
+  color: #2d3c49;
+}
